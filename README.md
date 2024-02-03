@@ -39,4 +39,4 @@
 > [!CAUTION]
 > Please be aware of the --base-href option. It is necessary when your project will be deployed to a non-root folder.
 
-## **Your project should be available at https://<username>.github.io/<repositoryname>.**
+## **Your project should be available at https://<username>.github.io/repositoryname.**
