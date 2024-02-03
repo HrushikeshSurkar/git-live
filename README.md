@@ -16,7 +16,7 @@
    ```
        git remote add origin https://github.com/<username>/<repositoryname>.git
    ```
-   #### **Hints**
+   ##### **Hints**
 
 - Create a new empty GitHub repository first.
 - Replace <username> and <repositoryname> with your username from GitHub and the name of your new repository.
@@ -39,4 +39,4 @@
 > [!CAUTION]
 > Please be aware of the --base-href option. It is necessary when your project will be deployed to a non-root folder.
 
-Your project should be available at https://<username>.github.io/<repositoryname>.
+## **Your project should be available at https://<username>.github.io/<repositoryname>.**
